@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cc11001100</groupId>
+  <artifactId>mi-pu-killer</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180417.154641</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20180417154641</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20180417.154641-2</value>
+        <updated>20180417154641</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20180417.154641-2</value>
+        <updated>20180417154641</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
