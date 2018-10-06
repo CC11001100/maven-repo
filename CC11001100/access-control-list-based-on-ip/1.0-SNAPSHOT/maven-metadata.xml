@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>CC11001100</groupId>
+  <artifactId>access-control-list-based-on-ip</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181006.104807</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20181006104807</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20181006.104807-2</value>
+        <updated>20181006104807</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20181006.104807-2</value>
+        <updated>20181006104807</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

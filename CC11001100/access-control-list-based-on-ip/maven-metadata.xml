@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>CC11001100</groupId>
+  <artifactId>access-control-list-based-on-ip</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181006104807</lastUpdated>
+  </versioning>
+</metadata>
